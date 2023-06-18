@@ -25,3 +25,6 @@ Employed advanced data analysis methodologies, particularly focused on time seri
 5. The phone category accounted for the highest number of sales in terms of product categories.
 6. The standard class shipping mode was the most preferred among customers.
 7. On average, our delivery time for each item is four days from the date of the order, indicating a reasonable and efficient delivery process.
+
+   ![Dashboard1](https://github.com/DeepEnlighten/Analysis-of-sales-during-Amazon-s-Big-Saving-Days/assets/134684304/2455e6d9-6e43-40e5-a668-c619802b0e40)
+
