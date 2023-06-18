@@ -27,4 +27,6 @@ Employed advanced data analysis methodologies, particularly focused on time seri
 7. On average, our delivery time for each item is four days from the date of the order, indicating a reasonable and efficient delivery process.
 
    ![Dashboard1](https://github.com/DeepEnlighten/Analysis-of-sales-during-Amazon-s-Big-Saving-Days/assets/134684304/2455e6d9-6e43-40e5-a668-c619802b0e40)
+   ![forecast 1](https://github.com/DeepEnlighten/Analysis-of-sales-during-Amazon-s-Big-Saving-Days/assets/134684304/3f2aaafb-c21a-4be4-a7fd-ccc31455ee1f)
+
 
